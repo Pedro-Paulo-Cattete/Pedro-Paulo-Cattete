@@ -21,8 +21,6 @@
 - LinkedIn: Pedro Paulo Cattete Neto (https://www.linkedin.com/in/pedro-paulo-cattete-neto-77624052/)
 - Email: pedro.cattete@gmail.com (mailto:pedro.cattete@gmail.com)
 
-## 📊 Estatísticas do GitHub
-
 ---
 
 ### Obrigado por visitar meu perfil! Vamos codar e nos divertir juntos! 🚀
