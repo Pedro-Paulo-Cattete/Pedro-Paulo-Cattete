@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre mim
 
-- 🎓 : Cursando Ensino Superior em Logística (Univali) 
+- 🎓 : Cursando Ensino Superior Sistemas da Computação
 - 💻 : Cursando Python pela Udemy (Básico ao Avançado) 
 - 💼 : Procurando cargo de Trainee em Python
 - 🌍 : Nascido no RJ e atual morador de SC, Brasil!
