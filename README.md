@@ -7,7 +7,7 @@
 - 💼 : Procurando cargo de Trainee em Python
 - 🌍 : Nascido no RJ e atual morador de SC, Brasil!
 - 🎮 : Quando não estou codando estou jogando videogames ou assitindo animes
-- 🛠️ : Python (Básico)
+- 🛠️ : Python (Intermediário) / Power BI (Intermediário)
 
 ## 💡 Fun Facts
 
