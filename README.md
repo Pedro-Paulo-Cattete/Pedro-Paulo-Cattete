@@ -2,12 +2,12 @@
 
 ## 🚀 Sobre mim
 
-- 🎓 : Cursando Ensino Superior Sistemas da Computação
+- 🎓 : Cursando Ensino Superior de Análise e Desenvolvimento de Sistemas
 - 💻 : Cursando Python pela Udemy (Básico ao Avançado) 
-- 💼 : Procurando cargo de Trainee em Python
+- 💼 : Procurando oportunidades pra me desenvolver na área
 - 🌍 : Nascido no RJ e atual morador de SC, Brasil!
 - 🎮 : Quando não estou codando estou jogando videogames ou assitindo animes
-- 🛠️ : Python (Intermediário) / Power BI (Intermediário)
+- 🛠️ : Python (Intermediário) / Power BI (Básico) / AWS Practitioner (Certificado)
 
 ## 💡 Fun Facts
 
