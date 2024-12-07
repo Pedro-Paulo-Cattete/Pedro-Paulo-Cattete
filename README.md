@@ -4,7 +4,7 @@
 
 - 🎓 : Cursando Ensino Superior de Análise e Desenvolvimento de Sistemas
 - 💻 : Cursando Python pela Udemy (Básico ao Avançado) 
-- 💼 : Procurando oportunidades pra me desenvolver na área
+- 💼 : Focado em me desenvolver na área de tecnologia
 - 🌍 : Nascido no RJ e atual morador de SC, Brasil!
 - 🎮 : Quando não estou codando estou jogando videogames ou assitindo animes
 - 🛠️ : Python (Intermediário) / Power BI (Básico) / AWS Practitioner (Certificado)
@@ -24,3 +24,5 @@
 ---
 
 ### Obrigado por visitar meu perfil! Vamos codar e nos divertir juntos! 🚀
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Paulo-Cattete&layout=compact&theme=dark)
