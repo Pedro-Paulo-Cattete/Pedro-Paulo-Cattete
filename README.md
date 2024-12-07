@@ -9,9 +9,13 @@
 - 🎮 : Quando não estou codando estou jogando videogames ou assitindo animes
 - 🛠️ : Python (Intermediário) / AWS Practitioner (Certificado) / Power BI (Básico) 
 
+<div align="center">
+  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+</div>
 
 ## 💡 Fun Facts
 
