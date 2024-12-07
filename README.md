@@ -7,9 +7,11 @@
 - 💼 : Focado em me desenvolver na área de tecnologia
 - 🌍 : Nascido no RJ e atual morador de SC, Brasil!
 - 🎮 : Quando não estou codando estou jogando videogames ou assitindo animes
-- 🛠️ : Python (Intermediário) / Power BI (Básico) / AWS Practitioner (Certificado)
+- 🛠️ : Python (Intermediário) / AWS Practitioner (Certificado) / Power BI (Básico) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Paulo-Cattete&layout=compact&theme=dark)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ## 💡 Fun Facts
 
@@ -27,3 +29,18 @@
 
 ### Obrigado por visitar meu perfil! Vamos codar e nos divertir juntos! 🚀
 
+
+
+<div align="center">
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Paulo-Cattete&layout=compact&theme=dark)
+
+</div>
+
+<div align="center">
+
+![Pedro's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Pedro-Paulo-Cattete&theme=dark&hide_border=true)
+
+</div>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pedro-Paulo-Cattete&theme=react-dark)
