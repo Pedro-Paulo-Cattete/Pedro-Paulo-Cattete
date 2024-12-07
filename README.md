@@ -9,6 +9,8 @@
 - 🎮 : Quando não estou codando estou jogando videogames ou assitindo animes
 - 🛠️ : Python (Intermediário) / Power BI (Básico) / AWS Practitioner (Certificado)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Paulo-Cattete&layout=compact&theme=dark)
+
 ## 💡 Fun Facts
 
 - 🍲 Feijoada é melhor que churrasco, mas vocês não estão preparados pra essa conversa.
@@ -25,4 +27,3 @@
 
 ### Obrigado por visitar meu perfil! Vamos codar e nos divertir juntos! 🚀
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Paulo-Cattete&layout=compact&theme=dark)
