@@ -31,8 +31,11 @@
 
 ---
 
+<div align="center">
+
 ### Obrigado por visitar meu perfil! Vamos codar e nos divertir juntos! 🚀
 
+</div>
 
 
 <div align="center">
