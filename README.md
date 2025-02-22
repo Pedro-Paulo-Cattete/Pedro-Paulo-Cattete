@@ -22,7 +22,7 @@
 
 - 🍲 Feijoada é melhor que churrasco, mas vocês não estão preparados pra essa conversa.
 - ❤️ Noivo da mulher mais fantástica do mundo que mais me apoia e me incentiva
-- 🌱 Atualmente aprendendo sobre Python, mas quero aprender outras, me apaixonei por codar.
+- 🌱 Atualmente aprendendo sobre Python, mas quero aprender outras, apaixonado por codar.
 - 🎧 Não sou eclético mas curto ouvir pagode, rock, indie, forró, rap, hip-hop... Mas não sou eclético
 
 ## 📫 Como me encontrar
