@@ -7,11 +7,12 @@
 - 💼 : Focado em me desenvolver na área de tecnologia
 - 🌍 : Nascido no RJ e atual morador de SC, Brasil!
 - 🎮 : Quando não estou codando estou jogando videogames ou assitindo animes
-- 🛠️ : Python (Intermediário) / AWS Practitioner (Certificado) / Power BI (Básico) 
+- 🛠️ : Python (Básico) / Javascript (Básico) / AWS Practitioner (Certificado) / Power BI (Básico) 
 
 <div align="center">
   
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
