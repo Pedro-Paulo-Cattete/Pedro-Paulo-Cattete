@@ -47,7 +47,7 @@
 
 <div align="center">
 
-![Pedro's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Pedro-Paulo-Cattete&theme=dark&hide_border=true)
+![Pedro's GitHub Streak](https://streak-stats.demolab.com/?user=Pedro-Paulo-Cattete&theme=dark&hide_border=true)
 
 </div>
 
