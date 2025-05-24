@@ -7,7 +7,7 @@
 - 💼 : Focado em me desenvolver na área de tecnologia
 - 🌍 : Nascido no RJ e atual morador de SC, Brasil!
 - 🎮 : Quando não estou codando estou jogando videogames ou assitindo animes
-- 🛠️ : Python (Básico) / Javascript (Básico) / AWS Practitioner (Certificado) / Power BI (Básico) 
+- 🛠️ : Python (Básico) / Javascript (Básico) / AWS (com certificação Practitioner e Architected) / Power BI (Básico) 
 
 <div align="center">
   
