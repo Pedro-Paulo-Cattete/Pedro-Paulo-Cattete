@@ -46,10 +46,4 @@
 
 </div>
 
-<div align="center">
-
-![Pedro's GitHub Streak](https://streak-stats.demolab.com/?user=Pedro-Paulo-Cattete&theme=dark&hide_border=true)
-
-</div>
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pedro-Paulo-Cattete&theme=react-dark)
